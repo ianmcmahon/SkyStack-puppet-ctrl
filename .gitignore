@@ -1,0 +1,6 @@
+cache/
+.bundle/
+bin/
+environments/
+vendor/
+Gemfile.lock
